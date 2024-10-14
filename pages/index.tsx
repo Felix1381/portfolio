@@ -108,7 +108,8 @@ export default function Home() {
   console.log("website is rendering...");
   const meta = {
     title: "Félix - Développeur Full Stack",
-    description: `I've been working on Software development for 5 years straight. Get in touch with me to know more.`,
+    description: `
+Je travaille sur le développement de d'applications depuis 1 an. Contactez-moi pour en savoir plus.`,
     image: "/titofCercle.png",
     type: "website",
   };
@@ -121,7 +122,7 @@ export default function Home() {
         <meta name="robots" content="follow, index" />
         <meta content={meta.description} name="description" />
         {/* <meta property="og:url" content={`https://anaflous.com`} /> */}
-        <link rel="canonical" href={`https://anaflous.com`} />
+        <link rel="canonical" href={`https://lix-tech.com`} />
         <meta property="og:type" content={meta.type} />
         <meta property="og:site_name" content="Manu Arora" />
         <meta property="og:description" content={meta.description} />

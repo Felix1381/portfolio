@@ -5,7 +5,7 @@
   anaflous.com - v1
 </h1>
 <p align="center">
-  The first iteration of <a href="https://anaflous.com" target="_blank">anaflous.com</a> built with <a href="https://nextjs.org/" target="_blank">Nextjs</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
+  The first iteration of <a href="https://lix-tech.com" target="_blank">lix-tech.com</a> built with <a href="https://nextjs.org/" target="_blank">Nextjs</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
 </p>
 
 <p align="center">
@@ -68,14 +68,14 @@ Since i integrated some of my project into my website i'll i mention most of tec
 
 ### How To Use
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [anaflous.com](https://anaflous.com). Thanks!
+Yes, you can fork this repo. Please give me proper credit by linking back to [lix-tech](https://lix-tech.com). Thanks!
 
 ## 🛠 Installation & Set Up
 
 1. Clone the repo CLI
 
    ```sh
-   git clone https://github.com/hktitof/my-website.git
+   git clone https://github.com/Felix1381/portfolio.git
    ```
 
 2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
@@ -87,7 +87,7 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [an
 3. Install dependencies
 
    ```sh
-   yarn
+   npm install
    ```
    
 4. (OPTIONAL) : Add .env file to the root project 
@@ -109,7 +109,7 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [an
 6. Start the development server
 
    ```sh
-   yarn dev
+   npm run dev
    ```
 
 ## 🚀 Building and Running for Production
@@ -117,7 +117,7 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [an
 1. Generate a full static production build
 
    ```sh
-   yarn build
+   npm run build
    ```
 
 1. Preview the site as it will appear once deployed

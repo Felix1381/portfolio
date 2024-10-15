@@ -16,7 +16,7 @@ export default function SomethingIveBuilt() {
      2xl:px-72 lg:px-24 md:px-16 sm:px-16 py-32 px-4"
     >
       {/* // ? Title   */}
-      <div data-aos="fade-up" className=" flex flex-row  items-center md:px-0">
+      {/* <div data-aos="fade-up" className=" flex flex-row  items-center md:px-0">
         <ArrowIcon className={"flex-none h-5 md:h-6 w-5 md:w-5 translate-y-[2px] text-AAsecondary"} />
         <div className="flex-none flex-row space-x-2 items-center pr-2">
           <span className="text-AAsecondary font-sans text-sm  sm:text-xl"> 03.</span>
@@ -67,7 +67,7 @@ export default function SomethingIveBuilt() {
                 <span className="text-AAsecondary text-base">Vision.io</span>
                 <a href="https://www.vision.io" target="_blank" rel="noopener noreferrer">
                   <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
-                    ENS names Marketplace
+                    MyShop
                   </span>
                 </a>
               </div>
@@ -99,7 +99,7 @@ export default function SomethingIveBuilt() {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
 
         {/* // ?  Project 2 - YpredictAI */}
 

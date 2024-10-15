@@ -147,7 +147,7 @@ Je travaille sur le développement de d'applications depuis 1 an. Contactez-moi 
           {context.sharedState.finishedLoading ? <SomethingIveBuilt /> : <></>}
           {context.sharedState.finishedLoading ? <GetInTouch /> : <></>}
           {context.sharedState.finishedLoading ? (
-            <Footer githubUrl={"https://github.com/hktitof/my-website"} hideSocialsInDesktop={true} />
+            <Footer githubUrl={"https://github.com/Felix1381/portfolio"} hideSocialsInDesktop={true} />
           ) : (
             <></>
           )}

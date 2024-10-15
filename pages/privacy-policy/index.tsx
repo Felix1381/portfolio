@@ -49,7 +49,7 @@ const PrivacyPolicy = () => {
               If you have any questions regarding this privacy policy, feel free to contact me at:
             </p>
             <p className="text-gray-700 mt-2">
-              Email: <a href="mailto:your.email@example.com" className="text-blue-600 hover:text-blue-800 transition duration-300">felix.com</a>
+              Email: <a href="mailto:felix.tete@epitech.eu" className="text-blue-600 hover:text-blue-800 transition duration-300">felix.tete@epitech.eu.com</a>
             </p>
           </section>
         </div>
